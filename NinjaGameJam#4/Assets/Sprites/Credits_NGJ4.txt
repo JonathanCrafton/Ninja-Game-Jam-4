@@ -1,0 +1,15 @@
+Sprites:
+	Brackeys
+	Maytech
+	Ansimuz
+
+Level Art:
+	BlueApollo
+
+Font: 
+	Tiny Worlds
+
+SFX:
+
+Music:
+
